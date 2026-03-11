@@ -15,7 +15,7 @@ Hi there!, I'm Yaksh Patel, A motivated guy who loves to build new things.
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Yaksh4826&theme=holi&no-frame=false&no-bg=true&margin-w=4)
 
-### ✍️ Random Dev Quote
-![](Do it to learn it !)
+### Thanks for viewing my profile
+#### Do it to learn it !
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
